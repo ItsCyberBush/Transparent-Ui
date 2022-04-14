@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img width="512" src="Showcase/Thumbnail/Pack.png">
+      <img width="512" src="Showcase/Thumbnail/pack_icon.png">
     </td>
     <td>
       <h1>Transparent Ui</h1>
