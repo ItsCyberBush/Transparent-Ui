@@ -15,5 +15,5 @@ Transparent Ui is a resource pack that makes the vanilla user interface transpar
 * It has vanilla style
 
 
-Found a bug? Have a feature suggestion? Feel free to [contact me by email](cybernetbush@outlook.com/cybernetbush@gmail.com) or contact me via Discord: (ItsCyberBush#4393), you also could submit a new issue to this GitHub Repository! 
+Found a bug? Have a feature suggestion? Feel free to [contact me by email](cybernetbush@gmail.com) or contact me via Discord: (ItsCyberBush#4393), you also could submit a new issue to this GitHub Repository! 
 
