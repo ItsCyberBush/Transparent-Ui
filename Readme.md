@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img width="64" src="resources/GitHub.png">
+      <img width="64" src="Showcase/Thumbnail/GitHub.png">
     </td>
     <td>
       <h1>Transparent Ui</h1>
